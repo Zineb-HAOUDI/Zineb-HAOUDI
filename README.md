@@ -19,27 +19,37 @@
 ## 🧰 Langages et Technologies
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,postgres,mongodb,azure,git,github,fastapi,vscode&theme=light&perline=8" alt="Langages et technologies" />
+  <img src="https://img.icons8.com/color/48/power-bi.png"
+       width="42" height="42"
+       alt="Power BI" title="Power BI"/>
+  &nbsp;
+
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png"
+       width="42" height="42"
+       alt="Excel" title="Excel"/>
+  &nbsp;
+
+  <img src="https://cdn.simpleicons.org/pandas/150458"
+       width="42" height="42"
+       alt="Pandas" title="Pandas"/>
+  &nbsp;
+
+  <img src="https://cdn.simpleicons.org/numpy/013243"
+       width="42" height="42"
+       alt="NumPy" title="NumPy"/>
+  &nbsp;
+
+  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E"
+       width="42" height="42"
+       alt="Scikit-learn" title="Scikit-learn"/>
+  &nbsp;
+
+  <img src="https://cdn.simpleicons.org/jupyter/F37626"
+       width="42" height="42"
+       alt="Jupyter" title="Jupyter"/>
+  &nbsp;
+
+  <img src="https://cdn.simpleicons.org/plotly/3F4F75"
+       width="42" height="42"
+       alt="Plotly" title="Plotly"/>
 </p>
-
-<p align="left">
-  <img src="https://cdn.simpleicons.org/powerbi/F2C811" width="42" height="42" alt="Power BI" title="Power BI"/>
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="42" height="42" alt="Excel" title="Excel"/>
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/pandas/150458" width="42" height="42" alt="Pandas" title="Pandas"/>
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/numpy/013243" width="42" height="42" alt="NumPy" title="NumPy"/>
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="42" height="42" alt="Scikit-learn" title="Scikit-learn"/>
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/jupyter/F37626" width="42" height="42" alt="Jupyter" title="Jupyter"/>
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/plotly/3F4F75" width="42" height="42" alt="Plotly" title="Plotly"/>
-</p>
-
----
-
-## 📫 Me contacter
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Zineb_HAOUDI-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zineb-haoudi/)
