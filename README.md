@@ -27,5 +27,4 @@
   <img src="https://api.iconify.design/vscode-icons:file-type-excel.svg" alt="Excel" width="45" height="45" />
   <img src="https://api.iconify.design/logos:jupyter.svg" alt="Jupyter Notebook" width="45" height="45" />
   <img src="https://api.iconify.design/logos:mysql-icon.svg" alt="MySQL" width="45" height="45" />
-  <img src="https://api.iconify.design/logos:scikit-learn.svg" alt="Scikit-learn" width="45" height="45" />
 </p>
