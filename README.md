@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👋 Bonjour, je suis Zineb HAOUDI
 
-<!--
-**Zineb-HAOUDI/Zineb-HAOUDI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📊 Data Analyst | Power BI | Python | SQL & NoSQL
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 À propos de moi
+
+📊 Data Analyst passionnée par la gestion, le traitement, l’analyse et la visualisation des données.
+
+💡 J’aime transformer des données complexes en analyses claires, en indicateurs pertinents et en recommandations utiles à la prise de décision.
+
+📈 Je conçois des tableaux de bord interactifs avec **Power BI** afin de suivre les performances et de faciliter le pilotage des activités.
+
+🐍 J’utilise **Python**, **SQL**, **Excel** et **Power Query** pour collecter, nettoyer, transformer et analyser les données.
+
+---
+
+## 🧰 Langages et Technologies
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,postgres,mongodb,azure,git,github,fastapi,vscode&theme=light&perline=8" alt="Langages et technologies" />
+</p>
+
+<p align="left">
+  <img src="https://cdn.simpleicons.org/powerbi/F2C811" width="42" height="42" alt="Power BI" title="Power BI"/>
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="42" height="42" alt="Excel" title="Excel"/>
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/pandas/150458" width="42" height="42" alt="Pandas" title="Pandas"/>
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/numpy/013243" width="42" height="42" alt="NumPy" title="NumPy"/>
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="42" height="42" alt="Scikit-learn" title="Scikit-learn"/>
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/jupyter/F37626" width="42" height="42" alt="Jupyter" title="Jupyter"/>
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/plotly/3F4F75" width="42" height="42" alt="Plotly" title="Plotly"/>
+</p>
+
+---
+
+## 📫 Me contacter
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Zineb_HAOUDI-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zineb-haoudi/)
